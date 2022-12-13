@@ -6,7 +6,7 @@ As part of the [RSE group at Princeton](https://researchcomputing.princeton.edu/
 I specialize in refactoring legacy codebases for human population genetics analysis.
 
 I like to
-- Accelarate, improve efficiency and refactor code
+- Accelerate, improve efficiency and refactor code
   - Reimplement algorithms to improve memory usage, like in [IBDmix](https://github.com/PrincetonUniversity/IBDmix)
   - Replace slow, non-pythonic code with compiled libraries, like in [introgression](https://github.com/troycomi/introgression)
 - Use [snakemake](https://github.com/snakemake/snakemake) for reproducible workflows
